@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+/target
+/out
+*.iml
+*.suo
+*.dll
+*.pdb
+*.csproj
+*.user
+*.cache
+*.txt
+*.cache
+*.dll
+*.pdb
+
+.idea/
